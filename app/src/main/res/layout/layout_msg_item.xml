@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:padding="10dip" >
+
+        <ImageView
+            android:id="@+id/iv_icon_msg_item"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:src="@drawable/icon_news_read" />
+
+        <TextView
+            android:id="@+id/tv_title_msg_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_toRightOf="@+id/iv_icon_msg_item"
+            android:text=""
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_30px" />
+
+        <TextView
+            android:id="@+id/tv_date_msg_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text=""
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_30px" />
+
+        <TextView
+            android:id="@+id/tv_content_msg_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_title_msg_item"
+            android:layout_marginTop="5dip"
+            android:layout_below="@+id/tv_title_msg_item"
+            android:text=""
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_30px" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dip"
+        android:background="#F6F2F1" />
+
+</LinearLayout>

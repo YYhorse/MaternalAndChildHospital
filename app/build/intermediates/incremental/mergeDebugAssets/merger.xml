@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Work\Android\WorkSpace\MaternalAndChildHospital1.0.01\app\src\main\assets"/><source path="D:\Work\Android\WorkSpace\MaternalAndChildHospital1.0.01\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Work\Android\WorkSpace\MaternalAndChildHospital1.0.01\app\src\debug\assets"/></dataSet></merger>

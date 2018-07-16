@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_login"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="30dip"
+        android:background="@color/color_white"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/rl_due_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="8dip"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:paddingTop="8dip" >
+
+            <ImageView
+                android:id="@+id/iv_icon_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/icon_4" />
+
+            <TextView
+                android:id="@+id/tv_date_due_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dip"
+                android:layout_toLeftOf="@+id/iv_array_date_due_date"
+                android:layout_toRightOf="@+id/iv_icon_date"
+                android:background="@color/color_transparent"
+                android:hint="请选择末次经期开始的日子"
+                android:singleLine="true"
+                android:textColor="@color/color_txt_dark_grey"
+                android:textColorHint="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+
+            <ImageView
+                android:id="@+id/iv_array_date_due_date"
+                android:layout_width="22dip"
+                android:layout_height="22dip"
+                android:layout_marginLeft="10dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/btn_arrow_right" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btn_confire_due_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_dark_orange"
+            android:paddingBottom="8dip"
+            android:paddingTop="8dip"
+            android:text="推算"
+            android:textColor="@color/color_white"
+            android:textSize="@dimen/textsize_38px" />
+    </LinearLayout>
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="10dip" >
+
+        <TextView
+            android:id="@+id/tv_know_due_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="我知道预产期"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_34px" />
+    </RelativeLayout>
+</LinearLayout>

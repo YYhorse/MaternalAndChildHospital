@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- text size -->
+    <dimen name="textsize_22px">17px</dimen>
+    <dimen name="textsize_24px">18px</dimen>
+    <dimen name="textsize_26px">19px</dimen>
+    <dimen name="textsize_28px">20px</dimen>
+    <dimen name="textsize_30px">21px</dimen>
+    <dimen name="textsize_32px">22px</dimen>
+    <dimen name="textsize_34px">23px</dimen>
+    <dimen name="textsize_36px">24px</dimen>
+    <dimen name="textsize_38px">25px</dimen>
+    <dimen name="textsize_40px">26px</dimen>
+    <dimen name="textsize_45px">28px</dimen>
+    <dimen name="textsize_60px">39px</dimen>
+    <dimen name="textsize_80px">52px</dimen>
+    <dimen name="textsize_200px">100px</dimen>
+    <dimen name="textsize_title_name">27px</dimen>
+    <dimen name="textsize_title_btn">21px</dimen>
+    <dimen name="textsize_1">40px</dimen>
+    <dimen name="textsize_2">25px</dimen>
+    <dimen name="textsize_3">22px</dimen>
+    <dimen name="image_wh">40dip</dimen>
+    
+    <dimen name="btn_height">40dip</dimen>
+<dimen name="image_mac">33sp</dimen>
+</resources>

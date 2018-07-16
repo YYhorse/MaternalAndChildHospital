@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+         publishing environment, used to specify the WEB server connection:
+    	[dev: 调试]
+    	[test: 测试] 
+    	[prod: 生产]
+    -->
+    <string name="publish_environment">prod</string>
+
+</resources>

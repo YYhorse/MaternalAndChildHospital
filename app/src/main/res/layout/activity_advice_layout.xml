@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_top" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:background="@color/color_divide_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/et_content_advice"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/layout_margin_10"
+            android:layout_marginTop="@dimen/layout_margin_10"
+            android:layout_weight="3"
+            android:background="@color/color_transparent"
+            android:gravity="top"
+            android:hint="请写下您的建议，帮助我们持续优化改进！"
+            android:padding="@dimen/layout_margin_15"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textColorHint="@color/color_txt_light_grey"
+            android:textSize="@dimen/textsize_32px" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_margin_1"
+            android:background="@color/color_divide_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_15"
+                android:layout_marginRight="@dimen/layout_margin_15"
+                android:layout_marginTop="@dimen/layout_margin_15"
+                android:background="@color/color_dark_orange"
+                android:gravity="center"
+                android:paddingBottom="@dimen/layout_margin_16"
+                android:paddingTop="@dimen/layout_margin_16"
+                android:text="提交"
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/textsize_32px" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

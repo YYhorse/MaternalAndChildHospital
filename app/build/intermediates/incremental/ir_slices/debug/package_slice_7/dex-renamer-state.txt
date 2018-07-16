@@ -1,0 +1,4 @@
+#Mon Jul 16 21:51:37 SGT 2018
+base.0=D\:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital1.0.01\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex

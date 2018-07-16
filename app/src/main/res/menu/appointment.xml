@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="预约就诊" android:id="@+id/item_appointment"></item>
+    <item android:title="产后42天" android:id="@+id/item_42day"></item>
+    <item android:title="0-6岁儿童体检" android:id="@+id/item_children"></item>
+    <item android:title="入托体检预约" android:id="@+id/item_admission"></item>
+</menu>

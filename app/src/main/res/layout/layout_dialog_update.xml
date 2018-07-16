@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.percent.support.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <android.percent.support.PercentRelativeLayout
+        android:id="@+id/updateDialog_pll_content"
+        android:layout_width="0dip"
+        android:layout_height="0dip"
+        app:layout_heightPercent="116%w"
+        app:layout_widthPercent="80%w"
+        android:background="@drawable/update_bg" >
+
+        <android.percent.support.PercentLinearLayout
+            android:layout_width="0dip"
+            android:layout_height="0dip"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            app:layout_heightPercent="50%h"
+            app:layout_widthPercent="75%w"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:overScrollMode="never" >
+
+                <TextView
+                    android:id="@+id/updateDialog_tv_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:lineSpacingExtra="@dimen/layout_margin_4"
+                    android:text="1、医务通新功能上线，加了视频会诊;\n2、多处优化，提升性能;"
+                    android:textColor="@color/color_txt_dark_grey"
+                    android:textSize="@dimen/textsize_13_sp" />
+            </ScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/updateDialog_tv_update"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_main_theme"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/layout_margin_8"
+                    android:paddingTop="@dimen/layout_margin_8"
+                    android:text="立即更新"
+                    android:textColor="@color/color_white"
+                    android:textSize="@dimen/textsize_15_sp" />
+
+                <TextView
+                    android:id="@+id/updateDialog_tv_cancel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:gravity="center"
+                    android:paddingBottom="@dimen/layout_margin_8"
+                    android:paddingTop="@dimen/layout_margin_8"
+                    android:text="稍后再说"
+                    android:textColor="@color/color_main_theme"
+                    android:textSize="@dimen/textsize_15_sp" />
+            </LinearLayout>
+        </android.percent.support.PercentLinearLayout>
+    </android.percent.support.PercentRelativeLayout>
+
+    <View
+        android:layout_width="0dip"
+        android:layout_height="0dip"
+        app:layout_heightPercent="4%h" />
+
+</android.percent.support.PercentLinearLayout>
