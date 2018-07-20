@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/layout_title_top" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:background="@color/color_divide_line" >
+    </View>
+    <!-- 内容 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_margin_15"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/icon_1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="注册账号"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_38px" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="13900000000"
+            android:id="@+id/frag_setting_tv_account"
+            android:textColor="@color/color_txt_light_grey"
+            android:textSize="@dimen/textsize_34px" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="@dimen/layout_margin_10"
+        android:background="@color/color_divide_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/frag_setting_ll_change_psw"
+        android:layout_margin="@dimen/layout_margin_15"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/icon_psw" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="修改密码"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_38px" />
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:src="@drawable/btn_arrow_right" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="@dimen/layout_margin_10"
+        android:background="@color/color_divide_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_margin_15"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/icon_10" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="提醒设置"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_38px" />
+
+        <ToggleButton
+            android:id="@+id/frag_setting_tb_msg"
+            android:layout_width="50dip"
+            android:layout_height="23dip"
+            android:button="@null"
+            android:background="@drawable/remindset_switch_selector"
+            android:text=""
+            android:textOff=""
+            android:textOn="" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="@dimen/layout_margin_10"
+        android:background="@color/color_divide_line" />
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/frag_setting_ll_advice"
+        android:layout_margin="@dimen/layout_margin_15"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/icon_11" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="建议反馈"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_38px" />
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:src="@drawable/btn_arrow_right" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="@dimen/layout_margin_10"
+        android:background="@color/color_divide_line" />
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/frag_setting_ll_about"
+        android:layout_margin="@dimen/layout_margin_15"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/icon_12" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="关于"
+            android:textColor="@color/color_txt_dark_grey"
+            android:textSize="@dimen/textsize_38px" />
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:src="@drawable/btn_arrow_right" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_margin_1"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="@dimen/layout_margin_10"
+        android:background="@color/color_divide_line" />
+
+</LinearLayout>

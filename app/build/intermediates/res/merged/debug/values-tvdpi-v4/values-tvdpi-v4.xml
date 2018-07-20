@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_mac">30sp</dimen>
+    <dimen name="image_wh">80dip</dimen>
+    <dimen name="textsize_1">55px</dimen>
+    <dimen name="textsize_2">30px</dimen>
+    <dimen name="textsize_200px">100px</dimen>
+    <dimen name="textsize_22px">22px</dimen>
+    <dimen name="textsize_24px">24px</dimen>
+    <dimen name="textsize_26px">26px</dimen>
+    <dimen name="textsize_28px">28px</dimen>
+    <dimen name="textsize_3">25px</dimen>
+    <dimen name="textsize_30px">30px</dimen>
+    <dimen name="textsize_32px">32px</dimen>
+    <dimen name="textsize_34px">34px</dimen>
+    <dimen name="textsize_36px">36px</dimen>
+    <dimen name="textsize_38px">38px</dimen>
+    <dimen name="textsize_40px">40px</dimen>
+    <dimen name="textsize_45px">45px</dimen>
+    <dimen name="textsize_60px">60px</dimen>
+    <dimen name="textsize_80px">80px</dimen>
+    <dimen name="textsize_title_btn">32px</dimen>
+    <dimen name="textsize_title_name">38px</dimen>
+</resources>

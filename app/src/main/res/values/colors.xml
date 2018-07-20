@@ -332,6 +332,7 @@
     <color name="gray05">#95A3AE</color>
     <color name="gray06">#f5f5f5</color>
     <color name="gray07">#838181</color>
+    <color name="textgray">#9F9F9F</color>
 
     <!-- 半透明 -->
     <color name="translucent01">#55000000</color>

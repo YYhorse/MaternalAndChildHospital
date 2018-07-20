@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="智慧服务一" android:id="@+id/item_wiseservice1"></item>
+    <item android:title="智慧服务二" android:id="@+id/item_wiseservice2"></item>
+</menu>

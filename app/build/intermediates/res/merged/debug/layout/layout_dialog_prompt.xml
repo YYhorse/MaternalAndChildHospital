@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="30dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="0dip"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <RelativeLayout
+            android:id="@+id/rl_content_prompt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/view_line"
+            android:layout_marginBottom="-2dip"
+            android:background="@drawable/corner_prompt_dialog_bg"
+            android:paddingBottom="@dimen/layout_margin_10"
+            android:paddingTop="@dimen/layout_margin_10" >
+
+            <TextView
+                android:id="@+id/tv_content_prompt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dip"
+                android:text="您还不是我们的会员用户哦，请完成注册认证，享受更多服务！"
+                android:textColor="@color/color_txt_dark_grey"
+                android:textSize="@dimen/textsize_40px" />
+
+            <!-- android:text="@string/x_vaccine_registered_win_hint" -->
+
+            <ProgressBar
+                android:id="@+id/pb_loading_prompt"
+                android:layout_width="40dip"
+                android:layout_height="40dip"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/view_line"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_above="@+id/ll_prompt"
+            android:background="@color/color_divide_line" />
+
+        <LinearLayout
+            android:id="@+id/ll_prompt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_enter_prompt"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginTop="-2dip"
+                android:layout_weight="1"
+                android:background="@drawable/corner_prompt_dialog_btn_left_bg"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="确定"
+                android:textColor="@color/color_main_theme"
+                android:textSize="@dimen/textsize_40px" />
+
+            <Button
+                android:id="@+id/btn_cancel_prompt"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_marginTop="-2dip"
+                android:layout_weight="1"
+                android:background="@drawable/corner_prompt_dialog_btn_right_bg"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="取消"
+                android:textColor="@color/color_main_theme"
+                android:textSize="@dimen/textsize_40px" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

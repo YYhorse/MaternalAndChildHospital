@@ -128,6 +128,10 @@
             android:name="com.example.maternalandchildhospital.activity.MsgListActivity"
             android:screenOrientation="portrait" >
         </activity>
+        <activity
+            android:name=".activity.AppointmentActivity"
+            android:screenOrientation="portrait" >
+        </activity>
         -->
         <!-- Required -->
         <service

@@ -20,6 +20,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.example.maternalandchildhospital.R;
+import com.example.maternalandchildhospital.activity.AppointmentActivity;
 import com.example.maternalandchildhospital.activity.HomeActivity;
 import com.example.maternalandchildhospital.activity.MsgListActivity;
 import com.example.maternalandchildhospital.async.HomePageAsync;
@@ -29,6 +30,7 @@ import com.example.maternalandchildhospital.fragment.home.FragmentRemind;
 import com.example.maternalandchildhospital.interfaces.MenuListener;
 import com.example.maternalandchildhospital.interfaces.UpdateUi;
 import com.example.maternalandchildhospital.publics.util.GlobalInfo;
+import com.example.maternalandchildhospital.publics.util.SwitchUtil;
 import com.example.maternalandchildhospital.publics.util.Utils;
 import com.example.maternalandchildhospital.publics.view.EnterDialog;
 import com.umeng.analytics.MobclickAgent;
@@ -245,7 +247,7 @@ public class FragmentHome extends Fragment implements OnClickListener {
 			public boolean onMenuItemClick(MenuItem menuItem) {
 				switch (menuItem.getItemId()){
 					case R.id.item_appointment:
-						Utils.ShowEnterDialog(getActivity(), "预约就诊", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);
+						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).switchTo();
 						break;
 					case R.id.item_42day:
 						Utils.ShowEnterDialog(getActivity(), "产后42天", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);

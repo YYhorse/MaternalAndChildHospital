@@ -1,0 +1,155 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_bg_code_dialog"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:background="@color/color_white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip" >
+
+            <View
+                android:id="@+id/iv_orange"
+                android:layout_width="5dip"
+                android:layout_height="20dip"
+                android:layout_centerVertical="true"
+                android:background="@color/color_dark_orange" />
+
+            <TextView
+                android:id="@+id/tv_num_dialog_notebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/iv_orange"
+                android:paddingLeft="5dip"
+                android:text=""
+                android:textColor="@color/color_txt_dark_grey"
+                android:textSize="@dimen/textsize_32px" />
+
+            <ImageView
+                android:id="@+id/iv_close_dialog_notebook"
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/btn_close" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:background="@color/color_divide_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="产检日期："
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+
+            <TextView
+                android:id="@+id/tv_date_dialog_notebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="怀孕周期："
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+
+            <TextView
+                android:id="@+id/tv_yunweek_dialog_notebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="检查项目："
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+
+            <TextView
+                android:id="@+id/tv_check_dialog_notebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@color/color_txt_light_grey"
+                android:textSize="@dimen/textsize_30px" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="20dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="*"
+                android:textColor="@color/red"
+                android:textSize="@dimen/textsize_26px" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="具体检查项目以实际情况为准"
+                android:textColor="@color/red"
+                android:textSize="@dimen/textsize_26px" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

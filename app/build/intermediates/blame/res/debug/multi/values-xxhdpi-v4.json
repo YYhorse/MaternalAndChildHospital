@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1001,
+                        "endColumn": 36,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 963,
+                        "endColumn": 36,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 42,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 42,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 41,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 41,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 46,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 46,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 44,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 44,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 44,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 44,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 44,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 44,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 44,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 44,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 41,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 41,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 44,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 44,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 44,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 44,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 44,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 44,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 44,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 44,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 44,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 44,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 44,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 44,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 44,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 44,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 44,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 44,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 44,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 44,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 49,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 49,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 50,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 864,
+                        "endColumn": 50,
+                        "endOffset": 910
+                    }
+                }
+            }
+        ]
+    }
+]

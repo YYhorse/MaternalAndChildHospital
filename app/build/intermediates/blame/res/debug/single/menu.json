@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\menu\\onlinechat.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\menu\\onlinechat.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wiseservice.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\menu\\wiseservice.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\menu\\appointment.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\menu\\appointment.xml"
+    }
+]

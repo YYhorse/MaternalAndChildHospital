@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#565656" >
+
+        <RelativeLayout
+            android:id="@+id/rl_title_date_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:padding="10dip">
+
+            <ImageView
+                android:id="@+id/iv_close_date_dialog"
+                android:layout_width="22dip"
+                android:layout_height="22dip"
+                android:src="@drawable/btn_close" />
+
+            <TextView
+                android:id="@+id/tv_title_date_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text=""
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/textsize_38px" />
+
+            <ImageView
+                android:id="@+id/iv_ok_date_dialog"
+                android:layout_width="22dip"
+                android:layout_height="22dip"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/btn_finish" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rl_title_date_dialog"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="20dip"
+            android:paddingRight="20dip"
+            android:orientation="horizontal" >
+
+            <com.example.maternalandchildhospital.publics.view.wheel.WheelView
+                android:id="@+id/wv_year_date_dialog"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dip" >
+            </com.example.maternalandchildhospital.publics.view.wheel.WheelView>
+
+            <com.example.maternalandchildhospital.publics.view.wheel.WheelView
+                android:id="@+id/wv_month_date_dialog"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dip" >
+            </com.example.maternalandchildhospital.publics.view.wheel.WheelView>
+
+            <com.example.maternalandchildhospital.publics.view.wheel.WheelView
+                android:id="@+id/wv_day_date_dialog"
+                android:layout_width="0dip"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" >
+            </com.example.maternalandchildhospital.publics.view.wheel.WheelView>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
