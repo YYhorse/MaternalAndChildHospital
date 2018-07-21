@@ -8,7 +8,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="40dp"
         android:orientation="horizontal"
         android:gravity="center_vertical"
         android:background="@color/less_gray"
@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="请填写真实信息，以保证后续服务的准确性。"
-            android:textSize="16dp"
+            android:textSize="14dp"
             android:textColor="@color/textgray"
             android:id="@+id/textView2"
             android:layout_marginLeft="20dp"
@@ -39,6 +39,7 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="姓名"
             android:gravity="left"
+            android:textSize="16dp"
             android:id="@+id/textView"
             android:layout_marginLeft="20dp"/>
 
@@ -51,6 +52,7 @@
             android:layout_weight="1"
             android:background="@null"
             android:hint="请输入真实姓名"
+            android:textSize="16dp"
             />
     </LinearLayout>
 
@@ -71,6 +73,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="年龄"
+            android:textSize="16dp"
             android:gravity="left"
             android:id="@+id/textView3"
             android:layout_marginLeft="20dp" />
@@ -78,12 +81,14 @@
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:inputType="textPersonName"
             android:ems="10"
+            android:textSize="16dp"
             android:id="@+id/editText2"
             android:layout_weight="1"
             android:background="@null"
-            android:hint="请输入真实姓名" />
+            android:numeric="integer"
+            android:inputType="numberSigned"
+            android:hint="请输入您的真实年龄" />
     </LinearLayout>
     <View
         android:layout_width="match_parent"
@@ -102,6 +107,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="预约时间"
+            android:textSize="16dp"
             android:gravity="left"
             android:id="@+id/textView4"
             android:layout_marginLeft="20dp" />
@@ -111,7 +117,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_vertical"
-            android:onClick="ClickAppointmentMethod"
+            android:onClick="ClickAppointmentDateMethod"
             >
 
             <TextView
@@ -119,8 +125,9 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="请选择预约时间"
+                android:textSize="16dp"
                 android:textColor="@color/gray"
-                android:id="@+id/textView6" />
+                android:id="@+id/Appointment_Date_txt" />
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -157,9 +164,21 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="手机号码"
+            android:textSize="16dp"
             android:gravity="left"
             android:id="@+id/textView5"
             android:layout_marginLeft="20dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:textSize="16dp"
+            android:id="@+id/editText3"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="请输入您的手机号码" />
     </LinearLayout>
 
     <LinearLayout
@@ -169,6 +188,20 @@
         android:layout_gravity="center_horizontal"
         android:layout_weight="1"
         android:background="@color/less_gray"
-        ></LinearLayout>
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="预约"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:background="@drawable/flatbutton"
+            android:id="@+id/button"
+            android:layout_margin="48dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="ClickAppointmentMethod"
+            />
+    </LinearLayout>
 
 </LinearLayout>

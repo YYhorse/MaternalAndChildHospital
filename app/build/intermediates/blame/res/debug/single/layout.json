@@ -12,12 +12,12 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_advice_layout.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_psw.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_forget_psw.xml"
-    },
-    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel2.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel2.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_psw.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_forget_psw.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_date_dialog.xml",

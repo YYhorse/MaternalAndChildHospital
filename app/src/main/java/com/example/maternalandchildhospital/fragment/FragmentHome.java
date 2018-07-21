@@ -1,6 +1,7 @@
 package com.example.maternalandchildhospital.fragment;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -30,6 +31,7 @@ import com.example.maternalandchildhospital.fragment.home.FragmentRemind;
 import com.example.maternalandchildhospital.interfaces.MenuListener;
 import com.example.maternalandchildhospital.interfaces.UpdateUi;
 import com.example.maternalandchildhospital.publics.util.GlobalInfo;
+import com.example.maternalandchildhospital.publics.util.PopMessageUtil;
 import com.example.maternalandchildhospital.publics.util.SwitchUtil;
 import com.example.maternalandchildhospital.publics.util.Utils;
 import com.example.maternalandchildhospital.publics.view.EnterDialog;
@@ -278,7 +280,14 @@ public class FragmentHome extends Fragment implements OnClickListener {
 			public boolean onMenuItemClick(MenuItem menuItem) {
 				switch (menuItem.getItemId()){
 					case R.id.item_onlinechat:
-						Utils.ShowEnterDialog(getActivity(), "在线问诊", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);
+						try {
+							PopMessageUtil.Log("跳转QQ");
+							String url = "mqqwpa://im/chat?chat_type=wpa&uin=453453446";//uin是发送过去的qq号码
+							startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+						} catch (Exception e) {
+							e.printStackTrace();
+							PopMessageUtil.showToastLong("请检查是否安装QQ");
+						}
 						break;
 				}
 				return false;
