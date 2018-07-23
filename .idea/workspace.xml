@@ -6,22 +6,18 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83dacce-c1de-485f-9898-f9d4eb3dae2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/maternalandchildhospital/fragment/FragmentHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" />
+    <list default="true" id="d6ba3763-8899-4542-93f8-574137919de0" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\animated_vector_drawable_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\appcompat_v7_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\jpush_android_2_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\nineoldandroids_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\org_apache_http_legacy_android_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\support_annotations_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\support_v4_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\support_vector_drawable_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\umeng_analytics_v5_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\android\ASworkspace\MaternalAndChildHospital\.idea\libraries\universal_image_loader_1_9_3.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_ce209fa59aa6c84b340fcacf47569607194915cb.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_ce209fa59aa6c84b340fcacf47569607194915cb.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MaternalAndChildHospital.iws" />
@@ -50,51 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DueDateActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/DueDateActivity.java">
+      <file leaf-file-name="AdviceActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/AdviceActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="H5Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/H5Activity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InitActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/InitActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/LoginActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3976744">
-              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputInfoActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/InputInfoActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.2872093">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1826,8 +1782,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="width" value="1712" />
+    <option name="x" value="9" />
+    <option name="width" value="1464" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1853,6 +1809,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1927,10 +1884,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1938,7 +1894,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../ASSDK" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FaceCashier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ccsmandroid/Android/android" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2077,15 +2033,15 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f83dacce-c1de-485f-9898-f9d4eb3dae2f" name="Default" comment="" />
-      <created>1532230654844</created>
+      <changelist id="d6ba3763-8899-4542-93f8-574137919de0" name="Default" comment="" />
+      <created>1532338095199</created>
       <option name="number" value="Default" />
-      <updated>1532230654844</updated>
+      <updated>1532338095199</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="0" width="1712" height="1047" extended-state="0" />
+    <frame x="9" y="0" width="1464" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2127,42 +2083,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/DueDateActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/AdviceActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/H5Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/InitActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/InputInfoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/maternalandchildhospital/activity/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3976744">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.2872093">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding />
         </state>
       </provider>
