@@ -12,6 +12,7 @@ import android.widget.TextView;
 import com.example.maternalandchildhospital.R;
 import com.example.maternalandchildhospital.bean.CacheActivityManager;
 import com.example.maternalandchildhospital.publics.util.PopMessageUtil;
+import com.example.maternalandchildhospital.publics.util.SwitchUtil;
 
 import java.util.Calendar;
 
@@ -61,7 +62,7 @@ public class AppointmentActivity extends Activity{
                 int now_dayOfMonth = datePicker.getDayOfMonth();                                //日
                 if (todayorderState == false) {
                     todayorderState = true;
-                    PopMessageUtil.Log(now_year + "|" + now_month + "|" + now_dayOfMonth);
+                    Date_txt.setText(now_year + "-" + now_month + "-" + now_dayOfMonth);
                 }
             }
         }, c.get(Calendar.YEAR), c.get(Calendar.MONTH), c.get(Calendar.DAY_OF_MONTH));
@@ -72,6 +73,7 @@ public class AppointmentActivity extends Activity{
      * * 功能说明：点击响应预约服务
      **********************************************************************************************/
     public void ClickAppointmentMethod(View view){
-
+        PopMessageUtil.showToastLong("预约成功！");
+        SwitchUtil.FinishActivity(this);
     }
 }
