@@ -249,16 +249,16 @@ public class FragmentHome extends Fragment implements OnClickListener {
 			public boolean onMenuItemClick(MenuItem menuItem) {
 				switch (menuItem.getItemId()){
 					case R.id.item_appointment:
-						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).switchTo();
+						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).addString("type","jance").switchTo();
 						break;
 					case R.id.item_42day:
-						Utils.ShowEnterDialog(getActivity(), "产后42天", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);
+						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).addString("type","42day").switchTo();
 						break;
 					case R.id.item_children:
-						Utils.ShowEnterDialog(getActivity(), "0-6岁儿童体检", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);
+						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).addString("type","ertongtj").switchTo();
 						break;
 					case R.id.item_admission:
-						Utils.ShowEnterDialog(getActivity(), "入托体检预约", "", "确定", "", "", EnterDialog.MODE_NOTITLE_SINGLE, null);
+						SwitchUtil.switchActivity(getActivity(), AppointmentActivity.class).addString("type","rutuotj").switchTo();
 						break;
 				}
 				return false;

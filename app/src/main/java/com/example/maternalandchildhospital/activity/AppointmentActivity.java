@@ -2,6 +2,7 @@ package com.example.maternalandchildhospital.activity;
 
 import android.app.Activity;
 import android.app.DatePickerDialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -33,11 +34,27 @@ public class AppointmentActivity extends Activity{
     private EditText Name_txt,Age_txt,Phone_txt;
     private boolean clickStatus = false;
     private Button Appointment_btn;
+
+    private String AppointmentType = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_appointment);
         initUi();
+        dealInter();
+    }
+
+    private void dealInter() {
+        Intent Extraintent = this.getIntent();
+        AppointmentType = Extraintent.getStringExtra("type");
+        if(AppointmentType.compareTo("jance")==0)
+            tvTitle.setText("预约就诊");
+        else if(AppointmentType.compareTo("42day")==0)
+            tvTitle.setText("产后42天");
+        else if(AppointmentType.compareTo("ertongtj")==0)
+            tvTitle.setText("0-6岁儿童体检");
+        else if(AppointmentType.compareTo("rutuotj")==0)
+            tvTitle.setText("入托体检预约");
     }
 
     private void initUi() {
@@ -48,7 +65,6 @@ public class AppointmentActivity extends Activity{
         ivBack.setImageResource(R.drawable.btn_back1);
 
         tvTitle = (TextView) findViewById(R.id.title_tv_name);
-        tvTitle.setText("预约就诊");
 
         Appointment_btn = (Button) findViewById(R.id.Appointment_btn);
 
@@ -105,7 +121,8 @@ public class AppointmentActivity extends Activity{
                             + "&age=" + Age_txt.getText().toString()
                             + "&appointment_time=" + Date_txt.getText().toString()
                             + "&mobile=" + Phone_txt.getText().toString()
-                            + "&type=jance&key=123456";
+                            + "&type="+AppointmentType
+                            + "&key=123456";
                     String MD5String = Md5Util.generateMD5String(CheckStr);
                     String JsonString = "{\"check\":\"" + MD5String + "\",\"json\":{"
                             + "\"user_id\":" + GlobalInfo.userInfo.getUserId() +
@@ -113,7 +130,7 @@ public class AppointmentActivity extends Activity{
                             ",\"age\":" + Age_txt.getText().toString() +
                             ",\"appointment_time\":\"" + Date_txt.getText().toString() + "\"" +
                             ",\"mobile\":\"" + Phone_txt.getText().toString() + "\"" +
-                            ",\"type\":\"jance\"" +
+                            ",\"type\":\""+AppointmentType+"\"" +
                             "}}";
                     PopMessageUtil.Log(JsonString);
 
