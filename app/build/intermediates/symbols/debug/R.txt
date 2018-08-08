@@ -1088,7 +1088,11 @@ int drawable update_bg 0x7f02009d
 int drawable video_notify_new_state 0x7f0200a0
 int drawable video_notify_original_state 0x7f0200a1
 int drawable webview_progressbar_color 0x7f02009e
+int id Appointment_Age_txt 0x7f0b0072
 int id Appointment_Date_txt 0x7f0b0074
+int id Appointment_Name_txt 0x7f0b0070
+int id Appointment_Phone_txt 0x7f0b0077
+int id Appointment_btn 0x7f0b0078
 int id East 0x7f0b0014
 int id North 0x7f0b0015
 int id South 0x7f0b0016
@@ -1126,7 +1130,6 @@ int id btn_get_code_register 0x7f0b00af
 int id btn_login 0x7f0b0099
 int id btn_next_forget_psw 0x7f0b0086
 int id btn_register 0x7f0b00b0
-int id button 0x7f0b0078
 int id buttonPanel 0x7f0b0043
 int id cancel_action 0x7f0b0128
 int id checkbox 0x7f0b0051
@@ -1139,9 +1142,6 @@ int id decor_content_parent 0x7f0b0056
 int id default_activity_button 0x7f0b003f
 int id disableHome 0x7f0b000c
 int id disabled 0x7f0b0028
-int id editText 0x7f0b0070
-int id editText2 0x7f0b0072
-int id editText3 0x7f0b0077
 int id edit_query 0x7f0b005a
 int id end 0x7f0b0020
 int id end_padder 0x7f0b0133

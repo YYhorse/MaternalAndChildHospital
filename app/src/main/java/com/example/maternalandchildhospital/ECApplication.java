@@ -10,6 +10,8 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
 
+import org.xutils.x;
+
 public class ECApplication extends Application {
 
 	private static ECApplication instance;
@@ -30,6 +32,8 @@ public class ECApplication extends Application {
 		super.onCreate();
 		instance = this;
 		initImageLoader();
+		//===============网络请求==================//
+		x.Ext.init(this);
 
 	}
 

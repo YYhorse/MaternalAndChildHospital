@@ -4,6 +4,10 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.pnikosis\\materialish-progress\\1.0\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },

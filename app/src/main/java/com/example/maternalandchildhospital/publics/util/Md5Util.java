@@ -37,7 +37,7 @@ public class Md5Util {
 		}
 		sb.append(Integer.toHexString(i));
 	    }
-	    return sb.toString().toUpperCase();
+	    return sb.toString().toLowerCase();
 	} catch (NoSuchAlgorithmException e) {
 	    // log.error...
 	    Utils.Log("generate MD5 String error! " + e.getMessage());

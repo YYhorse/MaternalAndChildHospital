@@ -38,4 +38,7 @@ dependencies {
     compile files('libs/nineoldandroids-2.4.0.jar')
     compile files('libs/umeng-analytics-v5.5.2.jar')
     compile files('libs/universal-image-loader-1.9.3.jar')
+    //-----网络请求库-----//
+    compile 'org.xutils:xutils:3.5.0'
+    compile 'com.google.code.gson:gson:2.2.4'
 }

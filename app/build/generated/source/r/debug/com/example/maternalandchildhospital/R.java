@@ -2864,7 +2864,11 @@ containing a value of this type.
         public static final int webview_progressbar_color=0x7f02009e;
     }
     public static final class id {
+        public static final int Appointment_Age_txt=0x7f0b0072;
         public static final int Appointment_Date_txt=0x7f0b0074;
+        public static final int Appointment_Name_txt=0x7f0b0070;
+        public static final int Appointment_Phone_txt=0x7f0b0077;
+        public static final int Appointment_btn=0x7f0b0078;
         public static final int East=0x7f0b0014;
         public static final int North=0x7f0b0015;
         public static final int South=0x7f0b0016;
@@ -2902,7 +2906,6 @@ containing a value of this type.
         public static final int btn_login=0x7f0b0099;
         public static final int btn_next_forget_psw=0x7f0b0086;
         public static final int btn_register=0x7f0b00b0;
-        public static final int button=0x7f0b0078;
         public static final int buttonPanel=0x7f0b0043;
         public static final int cancel_action=0x7f0b0128;
         public static final int checkbox=0x7f0b0051;
@@ -2915,9 +2918,6 @@ containing a value of this type.
         public static final int default_activity_button=0x7f0b003f;
         public static final int disableHome=0x7f0b000c;
         public static final int disabled=0x7f0b0028;
-        public static final int editText=0x7f0b0070;
-        public static final int editText2=0x7f0b0072;
-        public static final int editText3=0x7f0b0077;
         public static final int edit_query=0x7f0b005a;
         public static final int end=0x7f0b0020;
         public static final int end_padder=0x7f0b0133;

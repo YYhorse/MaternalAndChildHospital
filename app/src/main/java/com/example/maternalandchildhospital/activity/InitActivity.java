@@ -1,15 +1,10 @@
 package com.example.maternalandchildhospital.activity;
 
-import java.util.Timer;
-import java.util.TimerTask;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.StrictMode;
-import android.view.KeyEvent;
-import cn.jpush.android.api.JPushInterface;
 
 import com.example.maternalandchildhospital.R;
 import com.example.maternalandchildhospital.async.AsyncDownApp;
@@ -23,6 +18,11 @@ import com.example.maternalandchildhospital.publics.util.ScreenUtils;
 import com.example.maternalandchildhospital.publics.util.Utils;
 import com.umeng.analytics.AnalyticsConfig;
 import com.umeng.analytics.MobclickAgent;
+
+import java.util.Timer;
+import java.util.TimerTask;
+
+import cn.jpush.android.api.JPushInterface;
 
 /**
  * @author hxc
