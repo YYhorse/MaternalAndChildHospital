@@ -18,19 +18,24 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
-import cn.jpush.android.api.JPushInterface;
 
 import com.example.maternalandchildhospital.R;
 import com.example.maternalandchildhospital.async.CheckVerifyCodeAsync;
-import com.example.maternalandchildhospital.async.LoginAsync;
 import com.example.maternalandchildhospital.async.RegisterAsync;
 import com.example.maternalandchildhospital.async.SendVerifyCodeAsync;
 import com.example.maternalandchildhospital.bean.CacheActivityManager;
 import com.example.maternalandchildhospital.interfaces.UpdateUi;
+import com.example.maternalandchildhospital.net.HttpxUtils.HttpxUtils;
+import com.example.maternalandchildhospital.net.HttpxUtils.SendCallBack;
 import com.example.maternalandchildhospital.publics.util.GlobalInfo;
+import com.example.maternalandchildhospital.publics.util.Md5Util;
+import com.example.maternalandchildhospital.publics.util.PopMessageUtil;
 import com.example.maternalandchildhospital.publics.util.Utils;
-import com.example.maternalandchildhospital.publics.view.EnterDialog;
 import com.umeng.analytics.MobclickAgent;
+
+import org.xutils.common.Callback;
+
+import cn.jpush.android.api.JPushInterface;
 
 /**
  * @author hxc
@@ -244,11 +249,37 @@ public class RegisterActivity extends Activity implements OnClickListener {
 					}
 				}).executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
 
-				GlobalInfo.validataButtonTag = false;
-				btnGetCode.setText("获取验证码（60）");
-				Utils.newBtnNum();
-				GlobalInfo.vb.setButton(btnGetCode);
+				//进行预约网络请求
+				String CheckStr = "phoneNumber=" + phoneNum
+						+ "&codeType=userRegister";
+				String MD5String = Md5Util.generateMD5String(CheckStr);
+				String JsonString = "{\"check\":\"" + MD5String + "\",\"json\":{"
+						+ "\"phoneNumber\":\"" + phoneNum +"\""+
+						",\"codeType\":\"userRegister\""+
+						"}}";
+				PopMessageUtil.Log(JsonString);
 
+				//网络请求
+				HttpxUtils.postHttp(new SendCallBack() {
+					@Override
+					public void onSuccess(String result) {
+						PopMessageUtil.Log("短信接口返回：" + result);
+						GlobalInfo.validataButtonTag = false;
+						btnGetCode.setText("获取验证码（60）");
+						Utils.newBtnNum();
+						GlobalInfo.vb.setButton(btnGetCode);
+					}
+
+					public void onError(Throwable ex, boolean isOnCallback) {
+						PopMessageUtil.Log("短信接口服务器返回：" + ex.getMessage());
+						ex.printStackTrace();
+					}
+
+					public void onCancelled(Callback.CancelledException cex) {}
+					public void onFinished() {}
+				}).setUrl("http://fuyouapi.ichees.com/apiNew/public/index.php/api/SendcodeInfo/sendCode")
+						.addJsonParameter(JsonString)
+						.send();
 			} else {
 				Utils.ShowPromptDialog(this, 1, "提示", "请过" + GlobalInfo.remainTime + "秒后再获取短信验证码", "确定");
 			}
