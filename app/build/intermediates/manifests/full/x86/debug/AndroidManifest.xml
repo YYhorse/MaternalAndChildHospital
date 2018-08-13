@@ -147,7 +147,10 @@
             android:name="com.example.maternalandchildhospital.activity.AppointmentActivity"
             android:screenOrientation="portrait" >
         </activity>
-        -->
+        <activity
+            android:name="com.example.maternalandchildhospital.activity.OnlineConsultingActivity"
+            android:screenOrientation="portrait" >
+        </activity>
         <!-- Required -->
         <service
             android:name="cn.jpush.android.service.PushService"

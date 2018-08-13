@@ -8,40 +8,72 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
     },
     {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_prompt.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_prompt.xml"
+    },
+    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advice_layout.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_advice_layout.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_autolistview_pull_to_refresh_header.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_autolistview_pull_to_refresh_header.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_psw.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_forget_psw.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel2.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel2.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_notebook.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_notebook.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_date_dialog.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_choose_date_dialog.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_note_book.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_note_book.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_article_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_article_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_input_info.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_input_info.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_home.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -52,8 +84,8 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_msg_item.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_msg_item.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_knowledge.xml",
@@ -64,8 +96,312 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_psw.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_modify_psw.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_load.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_load.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetting.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_resetting.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_hint.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_register_hint.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_prompt.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_prompt.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_due_date.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_due_date.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_update.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_update.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_knowledge.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_knowledge.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_notebook.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_notebook.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_input_info.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_input_info.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel2.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel2.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_autolistview_pull_to_refresh_header.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_autolistview_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_tips_dialog.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\first_tips_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_onlineconsulting.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_onlineconsulting.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetting.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_resetting.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_update.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_update.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_setting.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_h5.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_h5.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_load.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_load.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_notebook_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_notebook_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_home.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_choose_str.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_choose_str.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advice_layout.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_advice_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_h5.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_h5.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel2.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel2.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advice_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_advice_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_appointment.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_msg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_expertinfo.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\item_expertinfo.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_my.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_my.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_date_dialog.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_choose_date_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_setting.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_psw.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_modify_psw.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_date_dialog.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_choose_date_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_msg_item.xml",
+        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_msg_item.xml"
+    },
+    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_autolistview_footer.xml",
@@ -92,44 +428,44 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_autolistview_footer.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_autolistview_footer.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_enter_cancel.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_enter_cancel.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_psw.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_modify_psw.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_menu.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_load.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_load.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_hint.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_register_hint.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_msg.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_remind.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_remind.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_tips_dialog.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\first_tips_dialog.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_note_book.xml",
@@ -144,44 +480,32 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_home.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_hint.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_register_hint.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_init_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_init_layout.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_prompt.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_prompt.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_msg_item.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_msg_item.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_choose_str.xml",
@@ -196,40 +520,32 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_top.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_title_top.xml"
+    },
+    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_due_date.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_due_date.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_notebook.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_notebook.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_psw.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_forget_psw.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_article_item.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_article_item.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_input_info.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_input_info.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_autolistview_pull_to_refresh_header.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_autolistview_pull_to_refresh_header.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_top.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_title_top.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_tips_dialog.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\first_tips_dialog.xml"
-    },
-    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_remind.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_remind.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetting.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_resetting.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -252,28 +568,20 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_appointment.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_update.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_dialog_update.xml"
-    },
-    {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_setting.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_fragment_setting.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_h5.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_h5.xml"
-    },
-    {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -284,16 +592,16 @@
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\activity_init_layout.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home.xml",
         "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\src\\main\\res\\layout\\layout_home.xml"
     },
     {
-        "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",

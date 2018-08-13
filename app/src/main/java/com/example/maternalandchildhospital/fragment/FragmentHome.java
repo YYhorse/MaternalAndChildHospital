@@ -24,6 +24,7 @@ import com.example.maternalandchildhospital.R;
 import com.example.maternalandchildhospital.activity.AppointmentActivity;
 import com.example.maternalandchildhospital.activity.HomeActivity;
 import com.example.maternalandchildhospital.activity.MsgListActivity;
+import com.example.maternalandchildhospital.activity.OnlineConsultingActivity;
 import com.example.maternalandchildhospital.async.HomePageAsync;
 import com.example.maternalandchildhospital.bean.HomePageInfo;
 import com.example.maternalandchildhospital.fragment.home.FragmentNotebook;
@@ -280,14 +281,7 @@ public class FragmentHome extends Fragment implements OnClickListener {
 			public boolean onMenuItemClick(MenuItem menuItem) {
 				switch (menuItem.getItemId()){
 					case R.id.item_onlinechat:
-						try {
-							PopMessageUtil.Log("跳转QQ");
-							String url = "mqqwpa://im/chat?chat_type=wpa&uin=453453446";//uin是发送过去的qq号码
-							startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
-						} catch (Exception e) {
-							e.printStackTrace();
-							PopMessageUtil.showToastLong("请检查是否安装QQ");
-						}
+						SwitchUtil.switchActivity(getActivity(), OnlineConsultingActivity.class).switchTo();
 						break;
 				}
 				return false;

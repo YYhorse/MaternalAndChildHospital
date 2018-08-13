@@ -1,5 +1,409 @@
 [
     {
+        "outputFile": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\values-tvdpi-v4\\values-tvdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 40,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 40,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 41,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 41,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 41,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 41,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 46,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 46,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 44,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 83,
+                        "endColumn": 44,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 44,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 44,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 44,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 44,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 44,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 44,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 41,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 41,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 44,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 44,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 44,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 44,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 44,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 44,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 44,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 44,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 44,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 44,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 44,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 44,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 44,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 44,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 44,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 44,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 44,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 44,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 49,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 49,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 50,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "D:\\Work\\Android\\WorkSpace\\MaternalAndChildHospital\\app\\src\\main\\res\\values-tvdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 866,
+                        "endColumn": 46,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\android\\ASworkspace\\MaternalAndChildHospital\\app\\build\\intermediates\\res\\merged\\debug\\values-tvdpi-v4\\values-tvdpi-v4.xml",
         "map": [
             {
